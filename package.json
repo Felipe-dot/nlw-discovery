@@ -1,0 +1,27 @@
+{
+  "name": "nlw-discovery",
+  "version": "1.0.0",
+  "description": "Projeto em desenvolvimento durante a 2 edição da nlw(Next Level Week)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipe-dot/nlw-discovery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felipe-dot/nlw-discovery/issues"
+  },
+  "homepage": "https://github.com/Felipe-dot/nlw-discovery#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
