@@ -10,7 +10,7 @@
 ## 🖥 Preview 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
+  <img src="https://github.com/Felipe-dot/nlw-discovery/blob/master/proffy.jpeg" width="700" >
 </p>
 
 ---
