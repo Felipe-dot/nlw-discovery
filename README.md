@@ -40,7 +40,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/Felipe-dot/nlw-discovery.git
 
 # Entrar no diretório
 cd nlw-discovery
